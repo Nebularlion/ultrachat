@@ -1,0 +1,6 @@
+controller\DefaultController.class
+model\Chat.class
+model\Message.class
+model\User.class
+application\UltraChatApplication.class
+model\Admin.class
